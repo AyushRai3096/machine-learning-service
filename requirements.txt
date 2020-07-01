@@ -10,3 +10,4 @@ lime
 django-pandas
 django-heroku
 Gunicorn
+nltk
