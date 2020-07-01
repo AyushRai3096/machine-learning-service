@@ -10,4 +10,4 @@ lime
 django-pandas
 django-heroku
 Gunicorn
-nltk==3.2.4
+nltk==3.4.5
