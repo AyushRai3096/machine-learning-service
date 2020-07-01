@@ -4,6 +4,8 @@ import pickle
 from nltk.tokenize import word_tokenize
 import os
 import sys
+import nltk
+nltk.download('all')
 from django.conf import settings
 
 class VoteClassifier(ClassifierI):
