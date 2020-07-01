@@ -2,7 +2,7 @@ numpy
 statistics
 pandas
 scipy
-scikit-learn
+scikit-learn==0.21.3
 category_encoders
 django
 djangorestframework
